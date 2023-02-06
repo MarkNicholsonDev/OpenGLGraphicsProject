@@ -1,4 +1,4 @@
-# OpenGLGraphicsProject
+# OpenGL Graphics Project
 
 A showcase of a graphics engine built from scratch utilising OpenGL and various graphical techniques such as triplanar mapping, multi-texturing with bump mapping and blending and more.
 
