@@ -23,3 +23,8 @@ D – Right
 Q - Roll left
 E- Roll right
 C – Start/Stop camera demo control
+
+## Known Bugs
+There is a minor issue with the texturing on the trees with the importing of materials, these are from assets imported from Unity causing
+odd discolouration in the trees specifically. This doesn't affect how the project runs or cause crashing, just a visual
+issue.
