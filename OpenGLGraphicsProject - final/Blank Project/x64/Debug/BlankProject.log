@@ -1,7 +1,5 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Blank Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Project.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Blank Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   Renderer.cpp
-C:\Users\b9031287\source\repos\CSC8502 - Final\Blank Project\Renderer.cpp(33,61): warning C4305:  'argument': truncation from 'double' to 'const float'
-  Generating Code...
-C:\Users\b9031287\source\repos\CSC8502 - Final\Blank Project\Renderer.cpp(194,129): warning C4305:  'argument': truncation from 'double' to 'const float'
-  BlankProject.vcxproj -> C:\Users\b9031287\source\repos\CSC8502 - Final\x64\Debug\Project.exe
+C:\Users\markn\Documents\GitHub\OpenGLGraphicsProject\OpenGLGraphicsProject - final\Blank Project\Renderer.cpp(33,61): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\markn\Documents\GitHub\OpenGLGraphicsProject\OpenGLGraphicsProject - final\Blank Project\Renderer.cpp(194,129): warning C4305: 'argument': truncation from 'double' to 'const float'
+  BlankProject.vcxproj -> C:\Users\markn\Documents\GitHub\OpenGLGraphicsProject\OpenGLGraphicsProject - final\x64\Debug\Project.exe

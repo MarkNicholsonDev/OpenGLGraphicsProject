@@ -1,6 +1,6 @@
 ﻿  Renderer.cpp
-C:\Users\b9031287\source\repos\CSC8502\ZXEmulator\Renderer.cpp(86,77): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\markn\Documents\GitHub\OpenGLGraphicsProject\OpenGLGraphicsProject - final\ZXEmulator\Renderer.cpp(86,77): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\markn\Documents\GitHub\OpenGLGraphicsProject\OpenGLGraphicsProject - final\ZXEmulator\Renderer.cpp(86,70): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
   ZXEmulator.cpp
   Generating Code...
-C:\Users\b9031287\source\repos\CSC8502\ZXEmulator\Renderer.cpp(86,70): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
-  ZXEmulator.vcxproj -> C:\Users\b9031287\source\repos\CSC8502\x64\Debug\ZXEmulator.exe
+  ZXEmulator.vcxproj -> C:\Users\markn\Documents\GitHub\OpenGLGraphicsProject\OpenGLGraphicsProject - final\x64\Debug\ZXEmulator.exe
